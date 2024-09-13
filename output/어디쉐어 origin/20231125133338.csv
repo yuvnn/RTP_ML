@@ -1,0 +1,3 @@
+accuracy,id,lat,lng,speed,time,type,state,stepCount,beaconData
+51.7,0,37.538028,126.644554,0.00,1700884466000,START,RUN,354,
+51.7,0,37.538028,126.644554,0.00,1700886818473,END,,0,

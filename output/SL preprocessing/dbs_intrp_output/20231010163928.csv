@@ -1,0 +1,3 @@
+accuracy,id,lat,lng,speed,time,type,state,stepCount,beaconData,output,grid_label
+54.8,0,37.537615,126.647686,0.0,1696917219000,START,WALK,956,,N,KECABBAA
+54.8,0,37.537615,126.647686,0.0,1696923568159,END,,0,,N,KECABBAA
